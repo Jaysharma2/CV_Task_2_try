@@ -1,6 +1,0 @@
--i
-.\data\samples\arnold.jpg
--o
-.\results\drawing\peopleLandmark.jpg
--t
-1
